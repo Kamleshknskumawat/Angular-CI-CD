@@ -26,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 "# Angular-CI-CD" 
+firebase login:ci
+
+1//0gSoooJ427j0nCgYIARAAGBASNwF-L9Irbe5xLcszUNyF_Lg3MPhE-0SXMU1NxuT5lRvhZx9TRtPkHi2YZRP4o0Rb7lhi0-zUiv0

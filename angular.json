@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularCICD"
+    }
+  },
+  "defaultProject": "AngularCICD",
+  "cli": {
+    "analytics": false
+  }
 }
